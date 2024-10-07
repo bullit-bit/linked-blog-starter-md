@@ -10,7 +10,4 @@ Check Failure's
 - [[IPSLA]]
 - [[]]
 
-
-This is a test
-
-dada
+This is a test if the commit sync works for 10 minutes

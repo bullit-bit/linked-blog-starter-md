@@ -9,6 +9,3 @@ Check Failure's
 - [[NTP]]
 - [[IPSLA]]
 - [[]]
-
-
-commit tag

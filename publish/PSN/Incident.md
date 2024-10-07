@@ -11,4 +11,14 @@ Check Failure's
 - [[]]
 
 
+<<<<<<< HEAD
 tewst
+=======
+tewst
+
+| name | number                  | bruh |
+|------|-------------------------|------|
+| Liam | dawdwadawdwadwadawdadw4 | bruH |
+
+my test is the test
+>>>>>>> origin/main

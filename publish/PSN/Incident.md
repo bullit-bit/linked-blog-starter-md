@@ -9,5 +9,3 @@ Check Failure's
 - [[NTP]]
 - [[IPSLA]]
 - [[]]
-
-This is my test commit

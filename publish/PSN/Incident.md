@@ -10,14 +10,3 @@ Check Failure's
 - [[IPSLA]]
 - [[]]
 
-
-<<<<<<< HEAD
-tewst
-=======
-tewst
-
-| name | number                  | bruh |
-|------|-------------------------|------|
-| Liam | dawdwadawdwadwadawdadw4 | bruH |
-
-my test is the test

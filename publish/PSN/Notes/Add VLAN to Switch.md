@@ -3,7 +3,7 @@
 1. Confirm switch doesn't already have VLAN
 ```
 show vlans | match 
-show interfaces irb.
+show interfaces irb
 ```
 
 2. Check Switch Core 

@@ -21,4 +21,3 @@ tewst
 | Liam | dawdwadawdwadwadawdadw4 | bruH |
 
 my test is the test
->>>>>>> origin/main

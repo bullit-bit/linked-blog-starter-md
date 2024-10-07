@@ -12,7 +12,3 @@ Check Failure's
 
 
 tewst
-
-| name | number                  | bruh |
-|------|-------------------------|------|
-| Liam | dawdwadawdwadwadawdadw4 | bruH |

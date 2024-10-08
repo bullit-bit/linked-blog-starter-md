@@ -10,6 +10,5 @@ Check Failure's
 - [[IPSLA]]
 
 
-
-![[Pasted image 20241008212515.png]]
+![[Pasted image 20241008212515.png | 500]]
 

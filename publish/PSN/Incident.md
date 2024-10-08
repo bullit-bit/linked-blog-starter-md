@@ -8,6 +8,3 @@ Down:
 Check Failure's
 - [[NTP]]
 - [[IPSLA]]
-
-
-![[image 1.png | 500]]

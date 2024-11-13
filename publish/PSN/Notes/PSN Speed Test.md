@@ -18,3 +18,10 @@ OIR - https://speedtest.int.oir.qld.gov.au
 QCS - https://speedtest.dcs.qld.gov.au
 
 
+### How to get device Info
+1. https://ise.psnmc.qld.gov.au
+2. Operations / Live Logs / Identity / User Email
+
+
+
+

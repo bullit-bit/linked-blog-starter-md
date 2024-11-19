@@ -6,6 +6,11 @@ set switch-options interface ge-0/0/0.0 interface-mac-limit packet-action drop-a
 ```
 
 ```
-set interfaces ge-4/0/7 disable 
+set interfaces ge-0/0/0 disable 
+set poe interface ge-0/0/0 disable  
+```
 
+```
+delete interfaces ge-0/0/0 disable 
+delete poe interface ge-0/0/0 disable 
 ```

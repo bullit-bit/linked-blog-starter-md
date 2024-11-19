@@ -5,4 +5,7 @@ set switch-options interface ge-0/0/0.0 interface-mac-limit 10
 set switch-options interface ge-0/0/0.0 interface-mac-limit packet-action drop-and-log
 ```
 
+```
+set interfaces ge-4/0/7 disable 
 
+```

@@ -1,10 +1,18 @@
-
+1. RoIP virtual circuit -0 
 ```
 sh voice port summary
 ```
 ```
 sh voice call summary
 ```
+
+2. LMR session - both sides
+
+```
+sh voice lmr 0/1/0
+```
+
+
 
 bounce both ports at the same time
 ```

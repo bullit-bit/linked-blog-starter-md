@@ -48,3 +48,9 @@ dial-peer voice 100 voip
 
 E-lead = Receive 
 M-lead = Transmit 
+
+
+
+
+
+But only if you send the command at the same time they are transmitting.   So if on Radio, they do a quick press on the " press to talk" on handset, you may miss it.   If they hold for longer you have more chance of seeing anything RES have squark box's that can send continuous signal down line.  So easy to see if being received. If they attach one at PCC end you will need e-lead command and at far end you will need m-lead command

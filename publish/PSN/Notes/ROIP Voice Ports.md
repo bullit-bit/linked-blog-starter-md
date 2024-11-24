@@ -33,4 +33,5 @@ dial-peer voice 100 voip
 ```
 
 
-
+E-lead = Receive 
+M-lead = Transmit 

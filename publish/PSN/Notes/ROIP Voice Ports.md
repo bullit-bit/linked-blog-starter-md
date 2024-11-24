@@ -1,4 +1,4 @@
-1. RoIP virtual circuit -0 
+1. RoIP virtual circuit - both sides
 ```
 sh voice port summary
 ```
@@ -12,9 +12,14 @@ sh voice call summary
 sh voice lmr 0/1/0
 ```
 
+3. Config - both sides
+```
+sh running-config | sec dial-peer
+```
 
+-------
 
-bounce both ports at the same time
+Bouncing ports
 ```
 voice-port 0/0/0
 ```

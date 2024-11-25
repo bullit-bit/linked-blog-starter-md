@@ -60,8 +60,11 @@ But only if you send the command at the same time they are transmitting.   So i
 
 #### Swapping ports
 
+1. Shut ports
+2. Config
+
 ```
-#Port 0/1/0
+#Port 0/1/0 - shutdowm
 dial-peer voice 100 voip
  description RoIP Circuit BIVLLPST-townsvllpcm-1
  incoming called-number .
@@ -75,7 +78,7 @@ dial-peer voice 200 pots
  destination-pattern 448200010
  port 0/1/0
  
-#Port 0/1/1 
+#Port 0/1/1 - online
 dial-peer voice 101 voip
  description RoIP Circuit BIVLLPST-townsvllpcm-1
  destination-pattern 481001103
@@ -91,3 +94,31 @@ dial-peer voice 201 pots
  destination-pattern 448200011
  port 0/1/1
 ```
+
+```
+#Port 0/1/0 - shutdowm
+voice-port 0/1/0
+ operation 4-wire
+ type 5
+ signal lmr
+ bootup e-lead off
+ lmr m-lead audio-gate-in
+ lmr led-on
+ timeouts call-disconnect 3
+ shutdown
+ description RoIP Circuit BIVLLPST-townsvllpcm-1
+ 
+ #Port 0/1/1 - online
+voice-port 0/1/1
+ operation 4-wire
+ type 5
+ signal lmr
+ bootup e-lead off
+ lmr m-lead audio-gate-in
+ lmr led-on
+ timeouts call-disconnect 3
+ connection trunk 481001103
+ description RoIP Circuit BIVLLPST-townsvllpcm-1
+```
+
+3. Bounce ports

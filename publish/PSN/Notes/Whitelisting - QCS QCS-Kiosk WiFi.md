@@ -17,9 +17,9 @@ Search on Outlook from Richard:
 
 
 ```
-Hi
+Hi 
 
-Whitelisting complete - If issues occur please reboot device and try again. 
+Whitelisting complete - If issues occur please reboot and try again for ISE to recognise the device
 ```
 
 

@@ -14,3 +14,13 @@ https://psnmc.atlassian.net/browse/OPS-79152
 
 Search on Outlook from Richard:
 "Add MAC address to ISE for QCS prisoner WiFi"
+
+
+```
+Hi
+
+Whitelisting complete - If issues occur please reboot device and try again. 
+```
+
+
+

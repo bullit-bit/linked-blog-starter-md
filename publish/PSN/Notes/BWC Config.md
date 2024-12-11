@@ -14,3 +14,5 @@ set poe interface ge-0/0/0 disable
 delete interfaces ge-0/0/0 disable 
 delete poe interface ge-0/0/0 disable 
 ```
+
+**

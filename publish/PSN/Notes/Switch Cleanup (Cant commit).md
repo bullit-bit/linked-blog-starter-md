@@ -5,7 +5,9 @@ https://psnmc.atlassian.net/wiki/spaces/PSNMC/pages/1648852993/Unable+to+commit+
 
 
 
-
+```
+request system storage cleanup
+```
 
 
 

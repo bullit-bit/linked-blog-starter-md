@@ -1,5 +1,4 @@
 
-
 1. Confirm switch doesn't already have VLAN
 ```
 show vlans | match 
@@ -28,3 +27,6 @@ set vlans VLAN_NAME vlan-id ID
 commit check
 commit comment "OPS-MYCHANGENO"
 ```
+
+
+![[Pasted image 20250205183834.png]]
